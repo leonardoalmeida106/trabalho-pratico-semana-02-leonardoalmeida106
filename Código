@@ -1,0 +1,38 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum Vita CV</title>
+</head>
+<style>
+    body{
+        background-color: bisque;
+    }
+p1{color: brown;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+h1{
+    font-family:'Times New Roman', Times, serif
+}
+p{
+    height: 100px;
+}
+p3{
+    color: red;
+}
+p4{size: 20px;}
+
+
+</style>
+<body>
+   <img src="2509587_de798.png" alt=""> 
+   <h1>Foto do referido no currículo ^</h1>
+   <h3>Leonardo Almeida Moura de Souza</h3>
+   <p1>Estudante promissor e incrível programador na Faculdade PUC Minas.</p1>
+   <p>Cursou Ciências da computação, fluente em linguagues de programação como C, CSS e HTML.</p>
+   <h2>Sobre Mim</h2>
+   <p3>Adora jogar video jogos e programar com C. (Sério é muito mais fácil do que HTML).</p3>
+<p>2006- 18 anos de idade</p>
+<p4>"Rapaz eu tava achando que esse curso ia ser mais díficil" - Leonardo Almeida Moura de Souza, provavelmente.</p4>
+</body>
+</html>
